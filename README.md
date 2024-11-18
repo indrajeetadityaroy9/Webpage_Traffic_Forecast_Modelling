@@ -1,1 +1,3 @@
-# Webpage Traffic Forecast Modelling
+# Forecasting Future Web Traffic for 145,000 Wikipedia Articles Using Time Series Analysis
+
+This project implements time series forecasting models to determine future web traffic across approximately 145,000 Wikipedia articles utilizing a dataset of daily page views from July 1, 2015, to December 31, 2016—and extending to September 1, 2017, in a secondary dataset. Each time series includes the article name and the type of traffic (all, mobile, desktop, spider), providing valuable metadata for enhancing prediction accuracy.The goal is to accurately predict future web traffic trends, contributing to more effective resource allocation and content management on Wikipedia.
